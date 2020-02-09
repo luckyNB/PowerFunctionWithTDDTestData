@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a3ff7fd-4871-485e-aaa0-8fd002013c17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYbE5Fthr7dMdDTeSTtAHpPoG3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.PowerFunctionTest.given100AsBaseValueAndExponentValue_WhenCorrect_ShouldReturnResult">
+    <configuration name="PowerFunctionTest.given100AsBaseValueAndExponentValue_WhenCorrect_ShouldReturnResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PowerFunctionTest.given100AsBaseValueAndExponentValue_WhenCorrect_ShouldReturnResult&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PowerFunctionTest.givenNegativeBaseAndExponent_WhenValid_ShouldReturnValidResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PowerFunctionTest.givenNegativeBaseAndExponent_WhenValid_ShouldReturnValidResult&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PowerFunctionTest.givenPositiveBaseAndExponentValue_WhenCorrect_ShouldReturnValidResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PowerFunctionTest.givenPositiveBaseAndExponentValue_WhenCorrect_ShouldReturnValidResult&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PowerFunctionTest.given100AsBaseValueAndExponentValue_WhenCorrect_ShouldReturnResult" />
+        <item itemvalue="Gradle.PowerFunctionTest.givenNegativeBaseAndExponent_WhenValid_ShouldReturnValidResult" />
+        <item itemvalue="Gradle.PowerFunctionTest.givenPositiveBaseAndExponentValue_WhenCorrect_ShouldReturnValidResult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3ff7fd-4871-485e-aaa0-8fd002013c17" name="Default Changelist" comment="" />
+      <created>1581225859740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581225859740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1253" height="260" key="GridCell.Tab.0.bottom" timestamp="1581232567529">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="260" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581232567529" />
+    <state width="1253" height="260" key="GridCell.Tab.0.center" timestamp="1581232567528">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="260" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581232567528" />
+    <state width="1253" height="260" key="GridCell.Tab.0.left" timestamp="1581232567528">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="260" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581232567528" />
+    <state width="1253" height="260" key="GridCell.Tab.0.right" timestamp="1581232567529">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="260" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581232567529" />
+  </component>
+</project>
